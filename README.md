@@ -5,7 +5,7 @@
 
 파나소닉과 올림푸스 바디는 지원하지 않습니다.
 
-Claude로 제작하였으며 EXIFTool이 사용되었습니다.
+Claude로 제작 하였으며 EXIFTool이 사용되었습니다.
 https://github.com/exiftool/exiftool
 
 **[사용방법]**
